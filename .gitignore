@@ -1,0 +1,8 @@
+# vim
+*.swp
+*.swa
+
+# output
+temp/
+*.o
+air_quality
